@@ -1,0 +1,11 @@
+{
+  "name": "meem-zbee",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node example/meemserver-zbee"
+  },
+  "dependencies": {
+  	"meem": "git://github.com/stormboy/node-meem.git",
+  	"zbee": "git://github.com/stormboy/node-zbee.git"
+  }
+}
